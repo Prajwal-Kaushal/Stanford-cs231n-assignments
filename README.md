@@ -1,3 +1,3 @@
 # Stanford-cs231n-assignments
 
-This has solutions for the assignments of Stanford CS231n.
+Hello, Prajwal here. This file contains the solutions for the Stanford CS231n assignments in Jupyter Notebook.
